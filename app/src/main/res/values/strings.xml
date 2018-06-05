@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Websites Ranking</string>
+    <string name="BlankList">No data yet</string>
+    <string name="splashTitle">Top 5 \n\t Websites Ranking</string>
+    <string name="button_caption_top5">Show Top 5</string>
+    <string name="button_caption_all_Data">All data</string>
+</resources>
